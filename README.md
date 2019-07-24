@@ -7,3 +7,5 @@ make the robot repeat it N number of times. While it is moving, the path traced 
 VGA display in real-time using an IMU-like technique.
 
 All processing and control is done using the ARM Cortex-A9 processor in the DE1-SoC FPGA.
+
+Kooresh Akhbari & Pranshu Malik
