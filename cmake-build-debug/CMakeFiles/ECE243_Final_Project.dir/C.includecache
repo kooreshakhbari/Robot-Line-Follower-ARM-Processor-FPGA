@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/gpio.h
+stdbool.h
+-
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/line_follower.h
+pwm_controller.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/pwm_controller.h
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/main.c
+vga_drawing_functions.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/vga_drawing_functions.h
+line_follower.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/line_follower.h
+pwm_controller.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/pwm_controller.h
+gpio.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/gpio.h
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/pwm_controller.h
+gpio.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/gpio.h
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/vga_drawing_functions.c
+gpio.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/gpio.h
+vga_drawing_functions.h
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/vga_drawing_functions.h
+
+E:/1. Undergraduate Studies/4. Programming/7. ECE243/ECE243-Final-Project/vga_drawing_functions.h
+stdlib.h
+-
+

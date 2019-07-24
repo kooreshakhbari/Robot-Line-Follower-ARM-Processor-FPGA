@@ -1,0 +1,21 @@
+Circuit: * E:\1. Undergraduate Studies\4. Programming\7. ECE243\ECE243-Final-Project\Circuitry\3V3_to_5V_Converter_NPN_BJT.asc
+
+.OP point found by inspection.
+
+Date: Thu Mar 28 19:00:14 2019
+Total elapsed time: 0.508 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 24121
+traniter = 24121
+tranpoints = 10424
+accept = 8812
+rejected = 1612
+matrix size = 16
+fillins = 2
+solver = Normal
+Matrix Compiler1: 1.04 KB object code size  0.6/0.5/[0.3]
+Matrix Compiler2: 1.28 KB object code size  0.3/0.6/[0.3]
+
